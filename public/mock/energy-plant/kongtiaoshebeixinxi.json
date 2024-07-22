@@ -1,0 +1,18 @@
+{
+	"code": 200,
+	"data": {
+		"airconditionRunningNumQOQ": "@integer(0,100)",
+		"inDoorRunningNum": "@integer(0,100)",
+		"inDoorOffNum": "@integer(0,100)",
+		"inDoorUnitNum": "@integer(0,100)",
+		"openRate": "@integer(0,100)",
+		"todayAirconditionRunningNum": "@integer(0,100)",
+		"totalEquNum": "@integer(0,100)",
+		"vrvNum": "@integer(0,100)",
+		"vrvOffNum": "@integer(0,100)",
+		"vrvRunningNum": "@integer(0,100)",
+		"yesterdayAirconditionRunningNum": "@integer(0,100)"
+
+	},
+	"message": ""
+}

@@ -1,0 +1,21 @@
+{
+	"code": 200,
+	"data": {
+		"comBuildTotal": {
+			"offNum": "@integer(10,30)",
+			"openRate": "@integer(10,30)",
+			"runningNum": "@integer(10,30)"
+		},
+		"curBuilding": {
+			"offNum": "@integer(10,30)",
+			"openRate": "@integer(10,30)",
+			"runningNum": "@integer(10,30)"
+		},
+		"currentLayer": {
+			"offNum": "@integer(10,30)",
+			"openRate": "@integer(10,30)",
+			"runningNum": "@integer(10,30)"
+		}
+	},
+	"message": ""
+}

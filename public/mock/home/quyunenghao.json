@@ -1,0 +1,12 @@
+{
+    "code": 200,
+    "message": "操作成功",
+    "data": {
+        "manufacturePlantEC": 85,
+        "testCenterEC": 85,
+        "smtProductionEC": 148,
+        "canteenEC": 148,
+        "compBuildingEC": 148,
+        "displayAreaEC": 165
+    }
+}

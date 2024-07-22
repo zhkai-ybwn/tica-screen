@@ -1,0 +1,12 @@
+{
+	"code": 200,
+	"data": {
+		"coDepth": "@integer(0,100)",
+		"currentP": "@integer(0,100)",
+		"currentStatus|1": [true, false],
+		"runTime": "@integer(0,10)",
+		"so2Depth": "@integer(0,100)",
+		"todayEC": "@integer(0,100)"
+	},
+	"message": ""
+}

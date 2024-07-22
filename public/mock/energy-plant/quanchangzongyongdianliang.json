@@ -1,0 +1,22 @@
+{
+	"code": 200,
+	"data": {
+		"costSavings": "@integer(100,300)",
+		"curMonHoleFactEC": "@integer(100,300)",
+		"curMonHoleFactECQOQ": "@integer(-100,100)",
+		"curMonHoleFactECYOY": "@integer(-100,100)",
+		"curYearHoleFactEC": "@integer(100,300)",
+		"curYearHoleFactECYOY": "@integer(-100,100)",
+		"lastMonHoleFactEC": "@integer(100,300)",
+		"lastYearCurMonHoleFactEC":"@integer(100,300)",
+		"lastYearHoleFactEC": "@integer(100,300)",
+		"lastYearTodayHoleFactEC": "@integer(100,300)",
+		"photovoltaicPowerGenYOY": "@integer(-100,100)",
+		"todayHoleFactEC": "@integer(100,300)",
+		"todayHoleFactECQOQ": "@integer(-100,100)",
+		"todayHoleFactECYOY": "@integer(-100,100)",
+		"totalCarbonEmissionReduction": "@integer(100,300)",
+		"yesterdayHoleFactEC": "@integer(100,300)"
+	},
+	"message": ""
+}

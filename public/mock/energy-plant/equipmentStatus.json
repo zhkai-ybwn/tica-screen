@@ -1,0 +1,19 @@
+{
+	"code": 200,
+	"data": {
+		"chilledWaterPump1Status|1": "['0', '1']",
+		"chilledWaterPump2Status|1": "['0', '1']",
+		"coolingTowerStatus|1": "['0', '1']",
+		"coolingWaterPump1Status|1": "['0', '1']",
+		"coolingWaterPump2Status|1": "['0', '1']",
+		"equipmentTotalNum": "@integer(1,20)",
+		"mainEngineStatus|1": "['0', '1']",
+		"modularMachine1Status|1": "['0', '1']",
+		"modularMachine2Status|1": "['0', '1']",
+		"modularMachine3Status|1": "['0', '1']",
+		"modularMachine4Status|1": "['0', '1']",
+		"offNum": "@integer(1,20)",
+		"runningNum": "@integer(1,20)"
+	},
+	"message": ""
+}

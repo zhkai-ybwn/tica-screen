@@ -1,0 +1,68 @@
+{
+    "code": 200,
+    "message": "操作成功",
+    "data": {
+        "actuationDetailVoList": [
+            {
+                "actuationPercent": 22.5,
+                "currentStatus": true,
+                "deviceName": "喷漆房(容器)",
+                "nodeId": 0
+            },
+            {
+                "actuationPercent": 22.5,
+                "currentStatus": false,
+                "deviceName": "喷漆房(ORC)",
+                "nodeId": 0
+            },
+            {
+                "actuationPercent": 22.5,
+                "currentStatus": true,
+                "deviceName": "管板焊机",
+                "nodeId": 0
+            },
+            {
+                "actuationPercent": 22.5,
+                "currentStatus": true,
+                "deviceName": "等离子切割机",
+                "nodeId": 0
+            },
+            {
+                "actuationPercent": 22.5,
+                "currentStatus": true,
+                "deviceName": "筒体清洗机",
+                "nodeId": 0
+            },
+            {
+                "actuationPercent": 22.5,
+                "currentStatus": true,
+                "deviceName": "管板清洗机",
+                "nodeId": 0
+            },
+            {
+                "actuationPercent": 22.5,
+                "currentStatus": false,
+                "deviceName": "立式加工中心850",
+                "nodeId": 0
+            },
+            {
+                "actuationPercent": 22.5,
+                "currentStatus": true,
+                "deviceName": "龙门加工中心4033",
+                "nodeId": 0
+            },
+            {
+                "actuationPercent": 22.5,
+                "currentStatus": true,
+                "deviceName": "喷漆房(满液)",
+                "nodeId": 0
+            },
+            {
+                "actuationPercent": 22.5,
+                "currentStatus": false,
+                "deviceName": "龙门加工中心216",
+                "nodeId": 0
+            }
+        ]
+    }
+}

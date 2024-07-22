@@ -1,0 +1,12 @@
+{
+	"code": 200,
+	"data": {
+		"backplaneTemperature": 44.10,
+		"dew_pTemperature": 26.27,
+		"envHumidity": 75.60,
+		"envTemperature": 31.10,
+		"envWindSpeed10M": 1.8,
+		"envWindSpeed2M": 2.0
+	},
+	"message": ""
+}

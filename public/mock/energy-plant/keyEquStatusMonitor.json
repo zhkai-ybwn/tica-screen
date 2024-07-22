@@ -1,0 +1,66 @@
+{
+	"code": 200,
+	"data": [
+		{
+			"actRate": "@integer(0,100)",
+			"currentP": "@integer(0,100)",
+			"eqName": "龙门加工中心4033",
+			"status|1": [true, false]
+		},
+        {
+			"actRate": "@integer(0,100)",
+			"currentP": "@integer(0,100)",
+			"eqName": "喷漆房（容器）",
+			"status|1": [true, false]
+		},
+        {
+			"actRate": "@integer(0,100)",
+			"currentP": "@integer(0,100)",
+			"eqName": "筒体清洗机",
+			"status|1": [true, false]
+		},
+        {
+			"actRate": "@integer(0,100)",
+			"currentP": "@integer(0,100)",
+			"eqName": "喷漆房（满液）",
+			"status|1": [true, false]
+		},
+        {
+			"actRate": "@integer(0,100)",
+			"currentP": "@integer(0,100)",
+			"eqName": "管板焊机",
+			"status|1": [true, false]
+		},
+        {
+			"actRate": "@integer(0,100)",
+			"currentP": "@integer(0,100)",
+			"eqName": "立式加工中心850",
+			"status|1": [true, false]
+		},
+        {
+			"actRate": "@integer(0,100)",
+			"currentP": "@integer(0,100)",
+			"eqName": "喷漆房（ORC）",
+			"status|1": [true, false]
+		},
+        {
+			"actRate": "@integer(0,100)",
+			"currentP": "@integer(0,100)",
+			"eqName": "等离子切割机",
+			"status|1": [true, false]
+		},
+        {
+			"actRate": "@integer(0,100)",
+			"currentP": "@integer(0,100)",
+			"eqName": "管板清洗机",
+			"status|1": [true, false]
+		},
+        {
+			"actRate": "@integer(0,100)",
+			"currentP": "@integer(0,100)",
+			"eqName": "龙门加工中心216",
+			"status|1": [true, false]
+		}
+	],
+	"message": ""
+}

@@ -1,0 +1,17 @@
+{
+	"code": 200,
+	"data": {
+		"actRate": "@integer(0,100)",
+		"actRateQOQ": "@integer(0,100)",
+		"eqNum": "@integer(0,100)",
+		"offNum": "@integer(0,100)",
+		"runningNum": "@integer(0,100)",
+		"todayEQEC": "@integer(0,100)",
+		"todayEQECQOQ": "@integer(-100,100)",
+		"todayEQECYOY": "@integer(-100,100)",
+		"yearEQEC": "@integer(0,100)",
+		"yearEQECYOY": "@integer(-100,100)",
+		"yesterdayActRate": "@integer(0,100)"
+	},
+	"message": ""
+}

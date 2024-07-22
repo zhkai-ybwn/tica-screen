@@ -1,0 +1,16 @@
+{
+	"code": 200,
+	"data": {
+		"chilledWaterPumpEC": "@integer(10,300)",
+		"chilledWaterPumpECProp": "@integer(0,100)",
+		"coolingTowerEC": "@integer(10,300)",
+		"coolingTowerECProp": "@integer(0,100)",
+		"coolingWaterPumpEC": "@integer(10,300)",
+		"coolingWaterPumpECProp": "@integer(0,100)",
+		"mainEngineEC": "@integer(10,300)",
+		"mainEngineECProp": "@integer(0,100)",
+		"modularUnitEC": "@integer(10,300)",
+		"modularUnitECProp": "@integer(0,100)"
+	},
+	"message": ""
+}

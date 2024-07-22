@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "message": "操作成功",
+    "data": {
+        "comprehensiveBuildEC": "@integer(10,300)",
+        "comprehensiveBuildECProp": "@integer(0,100)",
+        "manufacturePlantEC": "@integer(10,300)",
+        "manufacturePlantECProp": "@integer(0,100)",
+        "productTransportationEC": "@integer(10,300)",
+        "productTransportationECProp": "@integer(0,100)",
+        "smtProductionEC": "@integer(10,300)",
+        "smtProductionECProp": "@integer(0,100)",
+        "testCenterEC": "@integer(10,300)",
+        "testCenterECProp": "@integer(0,100)"
+    }
+}

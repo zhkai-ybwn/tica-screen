@@ -1,0 +1,70 @@
+{
+    "code": 200,
+    "message": "操作成功",
+    "data":  [
+		{
+			"ec": "@integer(10,300)",
+			"orgName": "能源公司"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "财经公司-贸易"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "销服运营管理"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "天加学院"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "总经办"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "人力资源部"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "战略经营"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "主机研发"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "预留组织位置"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "预留组织位置"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "预留组织位置"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "预留组织位置"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "预留组织位置"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "预留组织位置"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "预留组织位置"
+		},
+        {
+			"ec": "@integer(10,300)",
+			"orgName": "预留组织位置end"
+		}
+	]
+}

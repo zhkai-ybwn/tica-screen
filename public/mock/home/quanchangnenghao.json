@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "message": "操作成功",
+  "data": {
+    "todayHoleFactEC": 4.86,
+    "todayHoleFactECDOD": -99.48,
+    "yearHoleFactEC": 127
+  }
+}

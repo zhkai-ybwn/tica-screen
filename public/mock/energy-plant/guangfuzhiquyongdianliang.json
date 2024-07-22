@@ -1,0 +1,24 @@
+{
+    "code": 200,
+    "message": "操作成功",
+    "data": {
+        "totalC": "@integer(10,300)",
+        "moduleEcVOS": [
+			{
+				"name": "磁悬浮主机",
+				"prop": "0.16",
+				"value": "@integer(100,300)"
+			},
+            {
+				"name": "冷却塔",
+				"prop": "0.42",
+				"value": "@integer(100,300)"
+			},
+            {
+				"name": "冷却水泵",
+				"prop": "0.23",
+				"value": "@integer(100,300)"
+			}
+		]
+    }
+}

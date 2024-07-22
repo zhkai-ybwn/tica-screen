@@ -1,0 +1,25 @@
+{
+	"code": 200,
+	"data": {
+		"current": 5,
+		"records|200": [
+			{
+				"alarmContent": "@string",
+				"alarmInfoId": "@increment(1)",
+				"alarmLevel": {
+					"code": 0,
+					"mes|1": ["严重", "致命", "一般", "提示"],
+					"value": 0
+				},
+				"areaName": "@string",
+				"dealAdvice": "@string",
+				"deviceName": "@string",
+				"firstTime": "@date('yyyy-MM-dd HH:mm:ss')",
+				"recoverTime": "@date('yyyy-MM-dd HH:mm:ss')"
+			}
+		],
+		"size": 10,
+		"total": 200
+	},
+	"message": ""
+}

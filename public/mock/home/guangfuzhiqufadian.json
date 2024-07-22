@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "message": "操作成功",
+  "data": {
+    "todayElecGen": 16,
+    "totalElecGen": 95657,
+    "lastYearTotalElecGen": 0,
+    "totalCarbonEmissionReduction": 64.09019,
+    "totalSavedCoal": 49.5024975,
+    "currentP": -8.7,
+    "backplaneTemperature": 23.5,
+    "envWindSpeed": 2.4,
+    "envTemperature": 23.2,
+    "envHumidity": 9.37,
+    "mainEngineConsumption": 33365
+  }
+}
